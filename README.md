@@ -6,6 +6,8 @@ Lista de todos os encontros que já fizemos bem como informações sobre as pale
 * [2018](#2018)
   * [11º Encontro - 20 NOV](#11º-encontro---20-nov)
   * [10º Encontro - 16 AUG](#10º-encontro---16-aug)
+  * [9º Encontro - 25 ABR](#9º-encontro---25-abr)
+  * [8º Encontro - 27 FEV](#8º-encontro---27-fev)
 * [2017](#2017) 
 * [2016](#2016)
   * [1º Encontro - 1 JUN](#1º-encontro---1-jun)
@@ -107,6 +109,30 @@ https://www.youtube.com/playlist?list=PL7L8tg5-YR5-0-z1kUV7Bh0i7X_fXG6O2
 | Resumo | Vídeo | Slides |
 | ------ | ----- | ------ |
 | As técnicas mais clássicas de aprendizagem de máquina focam na aprendizagem supervisionada. Nessa palestra, iremos focar em alguns problemas onde a aprendizagem não-supervisionada pode ser útil. Vamos também mostrar algumas abordagens que usam o algoritmo PageRank do Google para classificar as instâncias. | https://youtu.be/-L60t9vJ-Zw | - |
+
+## 8º Encontro - 27 FEV
+
+### Evento
+
+https://www.meetup.com/Machine-Learning-Porto-Alegre/events/246729503/
+
+### Playlist Youtube
+
+https://www.youtube.com/playlist?list=PL7L8tg5-YR5-hKCymv6kOycCsU5YBSrCn
+
+### Palestras
+
+**Deep Learning e PLN - William Becker**
+
+| Resumo | Vídeo | Slides |
+| ------ | ----- | ------ |
+| Serão apresentadas algumas aplicações de Deep Learning para PLN, diferentes formas de representação de texto para algoritmos e uma arquitetura de Rede Neural profunda com classificação multi-tarefa em dados de redes sociais. | https://youtu.be/ZtrO54s-foQ | [SlideShare](https://pt.slideshare.net/WillianEduardoBecker/deep-learning-e-nlp) |
+
+**Machine Learning aplicado a sistemas de controle multivariável - Gabriel Gosmann e Diego Machado**
+
+| Resumo | Vídeo | Slides |
+| ------ | ----- | ------ |
+| Sistemas de controle são essenciais para o funcionamento de praticamente qualquer setor da indústria, porém, o desenvolvimento de sistemas de controle multivariável através do modelamento matemático das plantas pode caracterizar um desafio teórico (devido complexo desenvolvimento do cálculo multivariável) e prático (uma vez que os modelos não se encaixam perfeitamente na realidade). Nessa pesquisa descrevemos um método para automação de sistemas de controle multivariável baseado no treinamento de redes neurais artificiais e da utilização de algoritmo genético. | https://youtu.be/Y7xTojKGTHQ | [SlideShare](https://pt.slideshare.net/GabrielGosmann/machine-learning-applied-to-control-systems) |
 
 # 2017
 TBD
