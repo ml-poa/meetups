@@ -5,6 +5,7 @@ Lista de todos os encontros que já fizemos bem como informações sobre as pale
 * [2019](#2019) 
 * [2018](#2018)
   * [11º Encontro - 20 NOV](#11º-encontro---20-nov)
+  * [10º Encontro - 16 AUG](#10º-encontro---16-aug)
 * [2017](#2017) 
 * [2016](#2016)
   * [1º Encontro - 1 JUN](#1º-encontro---1-jun)
@@ -45,6 +46,35 @@ https://www.youtube.com/playlist?list=PL7L8tg5-YR599qAXOb2aIR8nkKMLX7r3R
 | ------ | ----- | ------ |
 | Com o aumento de popularidade da ciência de dados, técnicas de reconhecimentos de padrões, baseadas em aprendizado de máquina, servem como extratoras de informações relevantes de dados massivos. Dentre as diversas técnicas, uma técnica conceitualmente simples mas muito poderosa é a Floresta Randômica (Random Forest). Professor de Física e Mestre em Eng. Elétrica, Israel de Oliveira apresentará o método de Árvore Decisória e Floresta Randômica para classificação e regressão. Compartilhará algumas noções e melhorias na implementação utilizando Jupyter Notebook e Python. | https://youtu.be/96uWGIJjX7M | - |
 
+## 10º Encontro - 16 AUG
+
+### Evento
+
+https://www.meetup.com/Machine-Learning-Porto-Alegre/events/252135530/
+
+### Playlist Youtube
+
+https://www.youtube.com/playlist?list=PL7L8tg5-YR5-hcBgE9WjPa8P7aIhoc2XD
+
+### Palestras
+
+**Machine Learning nas Ciências da Saúde - Professor Ives Cavalcante Passos, MD, PhD**
+
+| Resumo | Vídeo | Slides |
+| ------ | ----- | ------ |
+| A análise de big data, sobretudo com algoritmos de machine learning, está ganhando força na pesquisa nas ciências da saúde e pode fornecer modelos preditivos tanto para a prática clínica quanto para os sistemas de saúde pública. Em comparação com os métodos estatísticos tradicionais que fornecem resultados de nível de grupo, os algoritmos de machine learning permitem previsões e estratificação dos resultados clínicos no nível individual. Nessa aula, destacaremos as principais utilizações desses algoritmos em relação aos desfechos clínicos. | https://youtu.be/FyQ0_FAeKME | - |
+
+**Incerteza em Machine Learning - Roberto Silveira**
+
+| Resumo | Vídeo | Slides |
+| ------ | ----- | ------ |
+| Nessa palestra, vamos falar sobre o conceito de incerteza de predições em machine learning/deep learning. Atualmente, muitos dos métodos e modelos não consideram essa variável na hora da concepção, e para algumas aplicações isso é extremamente importante. Vamos falar de incerteza no modelo e incerteza nos dados, quais as técnicas para inserir incerteza na predição, e quais a tendências futuras nessa área. | https://youtu.be/jN2oGoLVlDo | [SlideShare](https://www.slideshare.net/rsilveira79/uncertainty-in-deep-learning) |
+
+**Reinforcement Learning aplicado a jogos- Thomas Paula**
+
+| Resumo | Vídeo | Slides |
+| ------ | ----- | ------ |
+| Nessa palestra, vamos falar sobre a aplicação de Reinforcement Learning aplicado a jogos. Recentemente, o OpenAI criou um algoritmo capaz de vencer um time de DOTA, considerado um jogo com bastante complexida envolvida. Nessa palestra, iremos avaliar o papel de Reinforcement Learning no mundo dos jogos, fazendo um apanhado dos principais acontecimentos e suas implementações. Iremos também discutir algumas tendências na área bem como como essas técnicas podem ser utilizadas para outros problemas. | https://youtu.be/ABdAYoJY9jc | [SlideShare](https://www.slideshare.net/ThomasDaSilvaPaula/a-brief-overview-of-reinforcement-learning-applied-to-games) |
 
 # 2017
 TBD
