@@ -46,6 +46,7 @@ https://www.youtube.com/playlist?list=PL7L8tg5-YR599qAXOb2aIR8nkKMLX7r3R
 | ------ | ----- | ------ |
 | Com o aumento de popularidade da ciência de dados, técnicas de reconhecimentos de padrões, baseadas em aprendizado de máquina, servem como extratoras de informações relevantes de dados massivos. Dentre as diversas técnicas, uma técnica conceitualmente simples mas muito poderosa é a Floresta Randômica (Random Forest). Professor de Física e Mestre em Eng. Elétrica, Israel de Oliveira apresentará o método de Árvore Decisória e Floresta Randômica para classificação e regressão. Compartilhará algumas noções e melhorias na implementação utilizando Jupyter Notebook e Python. | https://youtu.be/96uWGIJjX7M | - |
 
+
 ## 10º Encontro - 16 AUG
 
 ### Evento
@@ -75,6 +76,37 @@ https://www.youtube.com/playlist?list=PL7L8tg5-YR5-hcBgE9WjPa8P7aIhoc2XD
 | Resumo | Vídeo | Slides |
 | ------ | ----- | ------ |
 | Nessa palestra, vamos falar sobre a aplicação de Reinforcement Learning aplicado a jogos. Recentemente, o OpenAI criou um algoritmo capaz de vencer um time de DOTA, considerado um jogo com bastante complexida envolvida. Nessa palestra, iremos avaliar o papel de Reinforcement Learning no mundo dos jogos, fazendo um apanhado dos principais acontecimentos e suas implementações. Iremos também discutir algumas tendências na área bem como como essas técnicas podem ser utilizadas para outros problemas. | https://youtu.be/ABdAYoJY9jc | [SlideShare](https://www.slideshare.net/ThomasDaSilvaPaula/a-brief-overview-of-reinforcement-learning-applied-to-games) |
+
+
+## 9º Encontro - 25 ABR
+
+### Evento
+
+https://www.meetup.com/Machine-Learning-Porto-Alegre/events/249365467/
+
+### Playlist Youtube
+
+https://www.youtube.com/playlist?list=PL7L8tg5-YR5-0-z1kUV7Bh0i7X_fXG6O2
+
+### Palestras
+
+**Detecção de Objetos com Redes Neurais Convolucionais: Um overview do YOLO - Gabriel Simões**
+
+| Resumo | Vídeo | Slides |
+| ------ | ----- | ------ |
+| O emprego de redes neurais convolucionais vem revolucionando diversos problemas complexos na área de visão computacional. Detecção de objetos em imagens digitais é um problema complexo visto que, para um dado objeto, existem infinitas possibilidades de variações de posição, dimensão, iluminação e oclusão, inviabilizando a construção de um modelo hand-crafted eficaz para a solução deste problema. Neste sentido, redes convolucionais, quando treinadas em datasets de imagens anotadas quanto a ocorrência de determinados objetos, são capazes de aprender estes conceitos transformando-se em extratores de features que possibilitam identificar a ocorrência destes objetos. De acordo com a arquitetura de saída destas redes, é possível identificar também a posição e as dimensões dos objetos. YOLO é um método de detecção de objetos apoiado por redes convolucionais que apresenta resultados surpreendentes por sua precisão, cobertura e velocidade. Neste meetup, iremos dissecar o funcionamento deste método e observar seu funcionamento. | https://youtu.be/6n2XxuKs45M | - |
+
+**Reconhecimento de padrões baseado em álgebra multilinear - Israel de Oliveira**
+
+| Resumo | Vídeo | Slides |
+| ------ | ----- | ------ |
+| Uma classe de métodos na área de reconhecimento de padrões que tem chamado atenção é a dos métodos multilineares. Diferente dos métodos lineares e dos não lineares, a representação e análise dos dados é realizada na sua forma natural: alta dimensionalidade e, por vezes, esparsa. Objetiva-se com tais métodos a preservação de correlações entre dimensões as quais seriam perdidas completa ou parcialmente quando convertidas em representações com menos dimensões. É apresentada a estrutura básica do tensor e a decomposição tensorial, bem como um método do estado da arte e uma formulação ainda não publicada. São apresentados, também, algumas problemáticas no uso de tensores aplicados a métodos de aprendizado de máquina e uma proposta de trabalho futuro. | https://youtu.be/BQDuC_7_GZA | - |
+
+**Aprendizagem não-supervisionada e o PageRank - Henrique Dias**
+
+| Resumo | Vídeo | Slides |
+| ------ | ----- | ------ |
+| As técnicas mais clássicas de aprendizagem de máquina focam na aprendizagem supervisionada. Nessa palestra, iremos focar em alguns problemas onde a aprendizagem não-supervisionada pode ser útil. Vamos também mostrar algumas abordagens que usam o algoritmo PageRank do Google para classificar as instâncias. | https://youtu.be/-L60t9vJ-Zw | - |
 
 # 2017
 TBD
