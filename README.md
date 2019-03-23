@@ -6,7 +6,7 @@ Lista de todos os encontros que já fizemos bem como informações sobre as pale
 * [2018](#2018) 
 * [2017](#2017) 
 * [2016](#2016)
-  * [1 JUN](#1-jun)
+  * [1º Encontro - 1 JUN](#1-encontro-1-jun)
 
 
 # 2019
@@ -21,7 +21,7 @@ TBD
 # 2016
 
 
-## 1 JUN
+## 1º Encontro - 1 JUN
 
 ### Evento
 
