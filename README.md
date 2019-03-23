@@ -3,23 +3,53 @@
 Lista de todos os encontros que já fizemos bem como informações sobre as palestras (vídeo, slides, código, etc).
 
 * [2019](#2019) 
-* [2018](#2018) 
+* [2018](#2018)
+  * [11º Encontro - 20 NOV](#11º-encontro---20-nov)
 * [2017](#2017) 
 * [2016](#2016)
-  * [1º Encontro - 1 JUN](#1-encontro-1-jun)
+  * [1º Encontro - 1 JUN](#1º-encontro---1-jun)
 
 
 # 2019
 TBD
 
 # 2018
-TBD
+
+## 11º Encontro - 20 NOV
+
+### Evento
+
+https://www.meetup.com/Machine-Learning-Porto-Alegre/events/255587757/
+
+### Playlist Youtube
+
+https://www.youtube.com/playlist?list=PL7L8tg5-YR599qAXOb2aIR8nkKMLX7r3R
+
+### Palestras
+
+**Machine Learning aplicado aos mercados financeiros e de criptomoedas - Rodrigo Soares Tadewald**
+
+| Resumo | Vídeo | Slides |
+| ------ | ----- | ------ |
+| Formado em Engenharia Química pela UFRGS, ex-sócio da Quantitas Gestora de Recursos e atualmente sócio-fundador da Asimov Trading, Rodrigo Soares Tadewald atua há mais de 3 anos desenvolvendo estratégias quantitativas de investimento e irá contar um pouco sobre suas experiências no mercado financeiro e de criptomoedas e como as novas tecnologias de inteligência artificial aliadas ao Big Data estão revolucionando a forma como se investe no mundo. | https://youtu.be/Rb5cd0BK-P4 | - |
+
+**Mecanismos de Self-Attention - Henrique Dias**
+
+| Resumo | Vídeo | Slides |
+| ------ | ----- | ------ |
+| - | https://youtu.be/96uWGIJjX7M | - |
+
+**Árvores de Decisão e Floresta Aleatória em Python puro - Israel de Oliveira**
+
+| Resumo | Vídeo | Slides |
+| ------ | ----- | ------ |
+| Com o aumento de popularidade da ciência de dados, técnicas de reconhecimentos de padrões, baseadas em aprendizado de máquina, servem como extratoras de informações relevantes de dados massivos. Dentre as diversas técnicas, uma técnica conceitualmente simples mas muito poderosa é a Floresta Randômica (Random Forest). Professor de Física e Mestre em Eng. Elétrica, Israel de Oliveira apresentará o método de Árvore Decisória e Floresta Randômica para classificação e regressão. Compartilhará algumas noções e melhorias na implementação utilizando Jupyter Notebook e Python. | https://youtu.be/96uWGIJjX7M | - |
+
 
 # 2017
 TBD
 
 # 2016
-
 
 ## 1º Encontro - 1 JUN
 
