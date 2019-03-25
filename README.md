@@ -2,19 +2,49 @@
 
 Lista de todos os encontros que já fizemos bem como informações sobre as palestras (vídeo, slides, código, etc).
 
-* [2019](#2019) 
+* [2019](#2019)
+  * [12º Encontro - 27 MAR](#12º-encontro---27-mar)
 * [2018](#2018)
   * [11º Encontro - 20 NOV](#11º-encontro---20-nov)
   * [10º Encontro - 16 AUG](#10º-encontro---16-aug)
   * [9º Encontro - 25 ABR](#9º-encontro---25-abr)
   * [8º Encontro - 27 FEV](#8º-encontro---27-fev)
-* [2017](#2017) 
+* [2017](#2017)
+  * [7º Encontro - 19 OUT](#7º-encontro---19-out)
+  * [6º Encontro - 05 JUL](#6º-encontro---05-jul)
+  * [5º Encontro - 03 ABR](#5º-encontro---03-abr)
+  * [4º Encontro - 31 JAN](#4º-encontro---31-jan)
 * [2016](#2016)
-  * [1º Encontro - 1 JUN](#1º-encontro---1-jun)
+  * [3º Encontro - 13 OUT](#3º-encontro---13-out)
+  * [2º Encontro - 27 JUL](#2º-encontro---27-jul)
+  * [1º Encontro - 1 JUN](#1º-encontro---01-jun)
 
 
 # 2019
-TBD
+## 12º Encontro - 27 MAR
+
+### Evento
+
+https://www.meetup.com/Machine-Learning-Porto-Alegre/events/259764047/
+
+### Playlist Youtube
+
+--
+
+### Palestras
+
+**Métodos de Boosting aplicados à dados tabulares - Luiz Antônio Nonenmacher Júnior**
+
+| Resumo | Vídeo | Slides |
+| ------ | ----- | ------ |
+| Embora muito se fale do excelente desempenho de redes neurais nas mais variadas tarefas, quando se trata de dados tabulares os métodos que hoje apresentam o melhor desempenho e estão ganhando competições no Kaggle são métodos de boosting que utilizam árvores de decisão. Nessa palestra, vamos explorar todos os conceitos necessários para entender esses métodos, iniciando por ensembling seguido de boosting (um tipo específico de ensembling) e finalizando com as implementações mais utilizadas (XGBoost, LightGBM e CatBoost). | - | - |
+
+**Classificação hierárquica de texto com word embeddings - Roger Stein**
+
+| Resumo | Vídeo | Slides |
+| ------ | ----- | ------ |
+| Técnicas de mapeamento de palavras em vetores de números reais (word embeddings) combinados com algoritmos modernos de aprendizado de máquina têm recentemente produzido uma melhoria considerável em tarefas de classificação automática de textos. Nessa palestra, veremos uma aplicação experimental de algumas dessas técnicas (GloVe, word2vec e fastText) e desses algoritmos (fastText, XGBoost e CNN) ao problema da classificação hierárquica de texto (HTC) em um banco de dados de artigos jornalísticos.| https://youtu.be/96uWGIJjX7M | - |
+
 
 # 2018
 
@@ -122,7 +152,7 @@ https://www.youtube.com/playlist?list=PL7L8tg5-YR5-hKCymv6kOycCsU5YBSrCn
 
 ### Palestras
 
-**Deep Learning e PLN - William Becker**
+**Deep Learning e PLN - Willian Becker**
 
 | Resumo | Vídeo | Slides |
 | ------ | ----- | ------ |
@@ -135,11 +165,166 @@ https://www.youtube.com/playlist?list=PL7L8tg5-YR5-hKCymv6kOycCsU5YBSrCn
 | Sistemas de controle são essenciais para o funcionamento de praticamente qualquer setor da indústria, porém, o desenvolvimento de sistemas de controle multivariável através do modelamento matemático das plantas pode caracterizar um desafio teórico (devido complexo desenvolvimento do cálculo multivariável) e prático (uma vez que os modelos não se encaixam perfeitamente na realidade). Nessa pesquisa descrevemos um método para automação de sistemas de controle multivariável baseado no treinamento de redes neurais artificiais e da utilização de algoritmo genético. | https://youtu.be/Y7xTojKGTHQ | [SlideShare](https://pt.slideshare.net/GabrielGosmann/machine-learning-applied-to-control-systems) |
 
 # 2017
-TBD
+
+## 7º Encontro - 19 OUT
+
+### Evento
+
+https://www.meetup.com/pt-BR/Machine-Learning-Porto-Alegre/events/243336783/
+
+### Playlist Youtube
+
+--
+
+### Palestras
+
+**Aprendizado de Máquina na Saúde: Introdução Conceitual e Relato de Caso Prático - Tiago Vaz**
+
+| Resumo | Vídeo | Slides |
+| ------ | ----- | ------ |
+| Tiago Vaz apresenta o trabalho realizado junto a Qualis Infectologia, um serviço de telemedicina que faz a utilização de machine learning na busca ativa em prontuários médicos e relata os avanços do LabRad, laboratório de Pesquisa & Desenvolvimento de Visão Computacional no Hospital de Clínicas de Porto Alegre. | - | [Google Drive](https://drive.google.com/file/d/1awMICp-YWFPYaBxC3kTYgr6vgbdNQUmD/view) |
+
+**Introdução a Lógica Difusa - Alexandre Soares**
+
+| Resumo | Vídeo | Slides |
+| ------ | ----- | ------ |
+| Como construir os processos de decisão de modo automatizado em aplicações que respondam a estímulos de natureza imprecisa, contribuindo para a elaboração de sistemas computacionalmente previsíveis e escaláveis dos processos de ponderação humana. | - | - |
+
+**Detecção da intrusão utilizando modelos neuro-difusos- Alexandre Soares**
+
+| Resumo | Vídeo | Slides |
+| ------ | ----- | ------ |
+| Atualmente o cenário de ameaças observados nos tráfegos de redes é classificado como polimórfico, ou seja, o ataque normalmente encontra-se oculto por perfis de uso fortemente auto-similares. Assim, um ataque pode ser elaborado de diferentes maneiras com o objetivo de explorar uma vulnerabilidade específica presente em um serviço disponível em um ambiente remoto. Esta apresentação busca de alternativas aos atuais mecanismos de segurança, usualmente limitados a compreender a ameaça de maneira rígida e pouco flexível. Para tanto é proposto o uso da lógica difusa em associação aos mecanismos de aprendizado das redes neurais. Esta combinação permite identificar com maior precisão a presença de um ataque em meio a diversos tráfegos considerados normais. A qualidade desta avaliação é realizada por meio de um processo de decisão mais robusto e capaz de suportar diversos graus de diferenciação do ataque original e assim diminuir a quantidade de alarmes falsos. | - | - |
+
+
+## 6º Encontro - 05 JUL
+
+### Evento
+
+https://www.meetup.com/pt-BR/Machine-Learning-Porto-Alegre/events/240552115/
+
+### Playlist Youtube
+
+https://www.youtube.com/playlist?list=PL7L8tg5-YR59ktr5hU43pcIBtSCslJz0K
+
+### Palestras
+
+**Machine Learning com Python - Henry E. L. Cagnini**
+
+| Resumo | Vídeo | Slides |
+| ------ | ----- | ------ |
+| Uma introdução à linguagem de programação Python para programadores com experiência em outras linguagens, com foco em bibliotecas para aprendizado de máquina e mineração de dados.| https://youtu.be/8ue-_N-ihqQ | [Google Docs](https://docs.google.com/presentation/d/1diAqGTtvrphmZwHDa0EiXJEBhOXrbkqn2OUfS7P55F0/edit#slide=id.g1e1711e40a_0_36) |
+
+**Similaridade entre frases: do texto até o modelo - Allan Barcelos**
+
+| Resumo | Vídeo | Slides |
+| ------ | ----- | ------ |
+| Uma introdução à avaliação de similaridade entre frases, abordando desde o pré-processamento, até a obtenção do modelo de aprendizagem de máquina.| https://youtu.be/IEsXY5es6FM | - |
+
+
+## 5º Encontro - 03 ABR
+
+### Evento
+
+https://www.meetup.com/pt-BR/Machine-Learning-Porto-Alegre/events/238408953/
+
+### Playlist Youtube
+
+https://www.youtube.com/playlist?list=PL7L8tg5-YR59q2Cy6S6Rnt40C2kuqAkzG
+
+### Palestras
+
+**Chatbots e deep learning - Andherson Maeda**
+
+| Resumo | Vídeo | Slides |
+| ------ | ----- | ------ |
+| Nessa apresentação faremos uma introdução a chatbots e machine learning. Com foco especial em deep learning, mostraremos algumas técnicas de aprendizagem de máquina e plataformas que são utilizadas atualmente para a construção desses bots.| https://youtu.be/WFMCEGyBzjQ | [SlideShare](https://www.slideshare.net/AndhersonMaeda/chatbots-and-deep-learning) |
+
+
+## 4º Encontro - 31 JAN
+
+### Evento
+
+https://www.meetup.com/Machine-Learning-Porto-Alegre/events/236671174/
+
+### Playlist Youtube
+
+https://www.youtube.com/watch?v=EVMIR6siWbI&list=PL7L8tg5-YR58i9h99GtYcer-23rwTZvyC
+
+### Palestras
+
+**Word embeddings - Christian S. Perone**
+
+| Resumo | Vídeo | Slides |
+| ------ | ----- | ------ |
+| Uma introdução sobre o que são word embeddings, qual a motivação dos modelos utilizados, como funciona o modelo word2vec, algumas aplicações e propriedades interessantes destes vetores. | https://youtu.be/EVMIR6siWbI | [SlideShare](https://www.slideshare.net/perone/word-embeddings-introduction) |
+
+**Seq2Seq models - Roberto Silveira**
+
+| Resumo | Vídeo | Slides |
+| ------ | ----- | ------ |
+| Nessa apresentação, vamos introduzir os modelos do tipo "sequence to sequence" (Seq2Seq) muito usados em processamento de linguagem natural, mostrando detalhes do modelo e algumas aplicações práticas como tradução automática (machine translation), legenda de imagens (image captioning), chatbots, etc. | https://youtu.be/01rUXzzgepU | [SlideShare](https://www.slideshare.net/rsilveira79/sequence-to-sequence-encoderdecoder-learning) |
+
+**Generative Adversarial Networks - Thomas Paula**
+
+| Resumo | Vídeo | Slides |
+| ------ | ----- | ------ |
+| Uma introdução sobre o que são Generative Adversarial Networks (GANs), porque estuda-las e para o que servem. Iremos ver qual a contribuição delas para Machine Learning e por qual motivo têm sido consideradas um dos grandes breakthroughs dos últimos 2 anos. | https://youtu.be/JJxJtn_FLRE | [SlideShare](https://www.slideshare.net/ThomasDaSilvaPaula/a-very-gentle-introduction-to-generative-adversarial-networks-aka-gans-71614428) |
+
 
 # 2016
 
-## 1º Encontro - 1 JUN
+## 3º Encontro - 13 OUT
+
+### Evento
+
+https://www.meetup.com/pt-BR/Machine-Learning-Porto-Alegre/events/233698150/
+
+### Playlist Youtube
+
+https://www.youtube.com/watch?v=5uvnIkxzY7M&list=PL7L8tg5-YR5-s5XyRKabDrYc-Qe7J--iQ
+
+### Palestras
+
+**Hidden Markov Models e o algoritmo de Baum-Welch - Joaquim Assunção**
+
+| Resumo | Vídeo | Slides |
+| ------ | ----- | ------ |
+| Hidden Markov Models (HMMs) são especialmente usados na área de reconhecimento de fala e escrita. Porém, também são usados para detectar padrões e prever eventos em séries temporais. Esta palestra visa mostrar conceitos básicos de HMMs e seu mais famoso algoritmo de aprendizagem, Baum-Welch (BW). | https://youtu.be/5uvnIkxzY7M | - |
+
+**É uma questão de tempo: Como o processamento temporal influencia o estado da arte em redes neurais - Rafael Borges**
+
+| Resumo | Vídeo | Slides |
+| ------ | ----- | ------ |
+| Tempo é um aspecto essencial para qualquer tarefa na Ciência da Computação e Análise de Dados, além de ser crucial para o entendimento e modelagem de habilidades cognitivas. Considerando a prerrogativa de redes neurais serem inspiradas na cognição humana para realizar diferentes tarefas computacionais, o entendimento da representação e aprendizagem temporais são fundamentais para a pesquisa e aplicação de sistemas conexionistas. Nesta apresentação, trazemos uma visão geral da influência de diferentes aspectos temporais em redes neurais artificiais, bem como do histórico de diferentes recursos usados para manipular tempo explicitamente nestas arquiteturas. Com base neste background, apresentamos dois diferentes casos de sucesso no estado-da-arte de redes neurais profundas e convolucionais: O uso de LSTM (Long Short Term Memory) em aprendizagem supervisionada, e aplicações de redes convolucionais para aprendizagem por reforço. | https://youtu.be/aQW_w0vPO5U | - |
+
+
+## 2º Encontro - 27 JUL
+
+### Evento
+
+https://www.meetup.com/pt-BR/Machine-Learning-Porto-Alegre/events/231745665/
+
+### Playlist Youtube
+
+https://www.youtube.com/watch?v=K5JT9OyQzbg&list=PL7L8tg5-YR5_eL8bKPiL2AxJRJu-az7zH
+
+### Palestras
+
+**Introdução à Sistemas de Recomendação - Ralph Rassweiler**
+
+| Resumo | Vídeo | Slides |
+| ------ | ----- | ------ |
+| Serão apresentados os conceitos básicos de sistemas de recomendação, filtro colaborativo, filtro baseado em conteúdo, avaliação e recursos. | https://youtu.be/K5JT9OyQzbg | [SlideShare](https://www.slideshare.net/ralphrass/introduo-sistemas-de-recomendao) |
+
+**Palestra prática sobre Sistemas de Recomendação - Juarez Bochi e Julia Kikuye**
+
+| Resumo | Vídeo | Slides |
+| ------ | ----- | ------ |
+| Será apresentada uma aplicação prática de sistemas de recomendação para a recomendação de repositórios no Github utilizando filtragem colaborativa. | https://youtu.be/8lqUy7RnLFQ | [Github](https://github.com/JuliaKikuye/meetup_machine_learning_recsys/blob/master/talk.ipynb) |
+
+
+## 1º Encontro - 01 JUN
 
 ### Evento
 
