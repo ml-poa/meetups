@@ -37,13 +37,13 @@ https://www.youtube.com/playlist?list=PL7L8tg5-YR59UKdIAaj415w5oxyjkAgml
 
 | Resumo | Vídeo | Slides |
 | ------ | ----- | ------ |
-| Embora muito se fale do excelente desempenho de redes neurais nas mais variadas tarefas, quando se trata de dados tabulares os métodos que hoje apresentam o melhor desempenho e estão ganhando competições no Kaggle são métodos de boosting que utilizam árvores de decisão. Nessa palestra, vamos explorar todos os conceitos necessários para entender esses métodos, iniciando por ensembling seguido de boosting (um tipo específico de ensembling) e finalizando com as implementações mais utilizadas (XGBoost, LightGBM e CatBoost). | https://youtu.be/sN7GACvb3LE | - |
+| Embora muito se fale do excelente desempenho de redes neurais nas mais variadas tarefas, quando se trata de dados tabulares os métodos que hoje apresentam o melhor desempenho e estão ganhando competições no Kaggle são métodos de boosting que utilizam árvores de decisão. Nessa palestra, vamos explorar todos os conceitos necessários para entender esses métodos, iniciando por ensembling seguido de boosting (um tipo específico de ensembling) e finalizando com as implementações mais utilizadas (XGBoost, LightGBM e CatBoost). | https://youtu.be/sN7GACvb3LE | https://drive.google.com/open?id=1lYhZtOYycWuuIgOUMSjx3dnevyhTc1M7 |
 
 **Classificação hierárquica de texto com word embeddings - Roger Stein**
 
 | Resumo | Vídeo | Slides |
 | ------ | ----- | ------ |
-| Técnicas de mapeamento de palavras em vetores de números reais (word embeddings) combinados com algoritmos modernos de aprendizado de máquina têm recentemente produzido uma melhoria considerável em tarefas de classificação automática de textos. Nessa palestra, veremos uma aplicação experimental de algumas dessas técnicas (GloVe, word2vec e fastText) e desses algoritmos (fastText, XGBoost e CNN) ao problema da classificação hierárquica de texto (HTC) em um banco de dados de artigos jornalísticos.| https://youtu.be/DHMuyeYdRfo | - |
+| Técnicas de mapeamento de palavras em vetores de números reais (word embeddings) combinados com algoritmos modernos de aprendizado de máquina têm recentemente produzido uma melhoria considerável em tarefas de classificação automática de textos. Nessa palestra, veremos uma aplicação experimental de algumas dessas técnicas (GloVe, word2vec e fastText) e desses algoritmos (fastText, XGBoost e CNN) ao problema da classificação hierárquica de texto (HTC) em um banco de dados de artigos jornalísticos.| https://youtu.be/DHMuyeYdRfo | https://drive.google.com/open?id=1M5EcIElUozYYNajrgNfUSkUKod06cxN6 |
 
 
 # 2018
