@@ -31,7 +31,7 @@ https://www.meetup.com/Machine-Learning-Porto-Alegre/events/264525466/
 
 ### Playlist Youtube
 
-TBD
+https://www.youtube.com/watch?v=1M95LQCvCjI&list=PL7L8tg5-YR58Im5lHVDFKi2cahEahOknK
 
 ### Palestras
 
@@ -39,13 +39,13 @@ TBD
 
 | Resumo | Vídeo | Slides |
 | ------ | ----- | ------ |
-| No mercado de ações, uma das tarefas mais difíceis é a decisão de quais são os melhores momentos para comprar ou vender. São inúmeros indicadores e estratégias para tentar predizer o momento ideal. Contudo, por vezes, a leitura e interpretação destes indicadores pode ser confusa e imprecisa, ainda mais para investidores iniciantes. Na literatura são descritos vários trabalhos que abordam este problema utilizando diversas técnicas de aprendizado de máquina. Nesta conversa, o objetivo é apresentar como que o trabalho considerado estado da arte nesta tarefa aborda o problema, quais os pontos que identificamos como possíveis de melhoria e alguns resultados já obtidos até o momento na pesquisa. | TBD | TBD |
+| No mercado de ações, uma das tarefas mais difíceis é a decisão de quais são os melhores momentos para comprar ou vender. São inúmeros indicadores e estratégias para tentar predizer o momento ideal. Contudo, por vezes, a leitura e interpretação destes indicadores pode ser confusa e imprecisa, ainda mais para investidores iniciantes. Na literatura são descritos vários trabalhos que abordam este problema utilizando diversas técnicas de aprendizado de máquina. Nesta conversa, o objetivo é apresentar como que o trabalho considerado estado da arte nesta tarefa aborda o problema, quais os pontos que identificamos como possíveis de melhoria e alguns resultados já obtidos até o momento na pesquisa. | https://www.youtube.com/watch?v=CdouUv19MXU | https://drive.google.com/file/d/1kFU9VTzkRm2kGLWA6XyC-2m6vB_3r3k7 |
 
 **Geometric Deep Learning - Roberto Coutinho e Holisson da Cunha**
 
 | Resumo | Vídeo | Slides |
 | ------ | ----- | ------ |
-| Geometric Deep Learning é um subcampo de Deep Learning, focado em técnicas para o desenvolvimento de modelos de redes neurais em domínios não-euclidianos, como grafos e objetos 3D. Embora modelos de Deep Learning tenham alcançado sucesso em problemas relacionados a visão computacional, linguagem natural e processamento de áudio, seguindo as regras da geometria euclidiana, essas técnicas não podem ser aplicadas diretamente em domínios 3D. Nessa conversa, nosso objetivo é apresentar uma visão geral sobre Geometric Deep Learning, seus conceitos fundamentais, e demonstrar como Redes Neurais Convolucionais podem ser aplicados em grafos. | TBD | TBD |
+| Geometric Deep Learning é um subcampo de Deep Learning, focado em técnicas para o desenvolvimento de modelos de redes neurais em domínios não-euclidianos, como grafos e objetos 3D. Embora modelos de Deep Learning tenham alcançado sucesso em problemas relacionados a visão computacional, linguagem natural e processamento de áudio, seguindo as regras da geometria euclidiana, essas técnicas não podem ser aplicadas diretamente em domínios 3D. Nessa conversa, nosso objetivo é apresentar uma visão geral sobre Geometric Deep Learning, seus conceitos fundamentais, e demonstrar como Redes Neurais Convolucionais podem ser aplicados em grafos. | https://www.youtube.com/watch?v=1M95LQCvCjI | TBD |
 
 ## 12º Encontro - 27 MAR
 
