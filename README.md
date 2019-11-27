@@ -3,6 +3,7 @@
 Lista de todos os encontros que já fizemos bem como informações sobre as palestras (vídeo, slides, código, etc).
 
 * [2019](#2019)
+  * [14º Encontro - 04 DEZ](#14º-encontro---04-dez)
   * [13º Encontro - 24 SET](#13º-encontro---24-set)
   * [12º Encontro - 27 MAR](#12º-encontro---27-mar)
 * [2018](#2018)
@@ -23,6 +24,30 @@ Lista de todos os encontros que já fizemos bem como informações sobre as pale
 
 # 2019
 
+## 14º Encontro - 04 DEZ
+
+### Evento
+
+https://www.meetup.com/pt-BR/Machine-Learning-Porto-Alegre/events/266380501/
+
+### Playlist Youtube
+
+TBD
+
+### Palestras
+
+**Machine Learning e Acessibilidade - Juliano Vacaro**
+
+| Resumo | Vídeo | Slides |
+| ------ | ----- | ------ |
+| Nesta apresentação será discutido como técnicas de aprendizado de máquina podem resolver desafios na vida de pessoas com deficiência visual. Em particular, serão apresentados algoritmos do estado da arte na área de perguntas e respostas baseadas em imagens (visual question answering) por envolver capacidades de compreensão, representação de informações de diferentes modalidades, mecanismos de atenção, e também por adotar um paradigma de interação onde o usuário é capaz de interrogar uma imagem por aspectos específicos. Embora os algoritmos avançaram de forma significativa, veremos que ainda não é possível usá-los diretamente para resolver o problema em questão. | TBD | TBD |
+
+**Aprendizados e insights que tive com 10 projetos de Machine Learning - Jayme Anchante**
+
+| Resumo | Vídeo | Slides |
+| ------ | ----- | ------ |
+| Nunca participou de um projeto envolvendo machine learning e tem curiosidade em saber os bastidores? Já participou de alguns, mas tem interesse em discutir o tema? Vou abordar alguns aprendizados que tive em projetos de Machine Learning e compartilhar mais detalhes de um case real ou mostrar um livecoding de um caso que poderia ser real. | TBD | TBD |
+
 ## 13º Encontro - 24 SET
 
 ### Evento
@@ -31,7 +56,7 @@ https://www.meetup.com/Machine-Learning-Porto-Alegre/events/264525466/
 
 ### Playlist Youtube
 
-TBD
+https://www.youtube.com/watch?v=1M95LQCvCjI&list=PL7L8tg5-YR58Im5lHVDFKi2cahEahOknK
 
 ### Palestras
 
@@ -39,13 +64,13 @@ TBD
 
 | Resumo | Vídeo | Slides |
 | ------ | ----- | ------ |
-| No mercado de ações, uma das tarefas mais difíceis é a decisão de quais são os melhores momentos para comprar ou vender. São inúmeros indicadores e estratégias para tentar predizer o momento ideal. Contudo, por vezes, a leitura e interpretação destes indicadores pode ser confusa e imprecisa, ainda mais para investidores iniciantes. Na literatura são descritos vários trabalhos que abordam este problema utilizando diversas técnicas de aprendizado de máquina. Nesta conversa, o objetivo é apresentar como que o trabalho considerado estado da arte nesta tarefa aborda o problema, quais os pontos que identificamos como possíveis de melhoria e alguns resultados já obtidos até o momento na pesquisa. | TBD | TBD |
+| No mercado de ações, uma das tarefas mais difíceis é a decisão de quais são os melhores momentos para comprar ou vender. São inúmeros indicadores e estratégias para tentar predizer o momento ideal. Contudo, por vezes, a leitura e interpretação destes indicadores pode ser confusa e imprecisa, ainda mais para investidores iniciantes. Na literatura são descritos vários trabalhos que abordam este problema utilizando diversas técnicas de aprendizado de máquina. Nesta conversa, o objetivo é apresentar como que o trabalho considerado estado da arte nesta tarefa aborda o problema, quais os pontos que identificamos como possíveis de melhoria e alguns resultados já obtidos até o momento na pesquisa.| https://www.youtube.com/watch?v=CdouUv19MXU | [Google Drive](https://drive.google.com/file/d/1kFU9VTzkRm2kGLWA6XyC-2m6vB_3r3k7) |
 
 **Geometric Deep Learning - Roberto Coutinho e Holisson da Cunha**
 
 | Resumo | Vídeo | Slides |
 | ------ | ----- | ------ |
-| Geometric Deep Learning é um subcampo de Deep Learning, focado em técnicas para o desenvolvimento de modelos de redes neurais em domínios não-euclidianos, como grafos e objetos 3D. Embora modelos de Deep Learning tenham alcançado sucesso em problemas relacionados a visão computacional, linguagem natural e processamento de áudio, seguindo as regras da geometria euclidiana, essas técnicas não podem ser aplicadas diretamente em domínios 3D. Nessa conversa, nosso objetivo é apresentar uma visão geral sobre Geometric Deep Learning, seus conceitos fundamentais, e demonstrar como Redes Neurais Convolucionais podem ser aplicados em grafos. | TBD | TBD |
+| Geometric Deep Learning é um subcampo de Deep Learning, focado em técnicas para o desenvolvimento de modelos de redes neurais em domínios não-euclidianos, como grafos e objetos 3D. Embora modelos de Deep Learning tenham alcançado sucesso em problemas relacionados a visão computacional, linguagem natural e processamento de áudio, seguindo as regras da geometria euclidiana, essas técnicas não podem ser aplicadas diretamente em domínios 3D. Nessa conversa, nosso objetivo é apresentar uma visão geral sobre Geometric Deep Learning, seus conceitos fundamentais, e demonstrar como Redes Neurais Convolucionais podem ser aplicados em grafos. | https://www.youtube.com/watch?v=1M95LQCvCjI | - |
 
 ## 12º Encontro - 27 MAR
 
@@ -63,13 +88,13 @@ https://www.youtube.com/playlist?list=PL7L8tg5-YR59UKdIAaj415w5oxyjkAgml
 
 | Resumo | Vídeo | Slides |
 | ------ | ----- | ------ |
-| Embora muito se fale do excelente desempenho de redes neurais nas mais variadas tarefas, quando se trata de dados tabulares os métodos que hoje apresentam o melhor desempenho e estão ganhando competições no Kaggle são métodos de boosting que utilizam árvores de decisão. Nessa palestra, vamos explorar todos os conceitos necessários para entender esses métodos, iniciando por ensembling seguido de boosting (um tipo específico de ensembling) e finalizando com as implementações mais utilizadas (XGBoost, LightGBM e CatBoost). | https://youtu.be/sN7GACvb3LE | https://drive.google.com/open?id=1lYhZtOYycWuuIgOUMSjx3dnevyhTc1M7 |
+| Embora muito se fale do excelente desempenho de redes neurais nas mais variadas tarefas, quando se trata de dados tabulares os métodos que hoje apresentam o melhor desempenho e estão ganhando competições no Kaggle são métodos de boosting que utilizam árvores de decisão. Nessa palestra, vamos explorar todos os conceitos necessários para entender esses métodos, iniciando por ensembling seguido de boosting (um tipo específico de ensembling) e finalizando com as implementações mais utilizadas (XGBoost, LightGBM e CatBoost). | https://youtu.be/sN7GACvb3LE | [Google Drive](https://drive.google.com/open?id=1lYhZtOYycWuuIgOUMSjx3dnevyhTc1M7) |
 
 **Classificação hierárquica de texto com word embeddings - Roger Stein**
 
 | Resumo | Vídeo | Slides |
 | ------ | ----- | ------ |
-| Técnicas de mapeamento de palavras em vetores de números reais (word embeddings) combinados com algoritmos modernos de aprendizado de máquina têm recentemente produzido uma melhoria considerável em tarefas de classificação automática de textos. Nessa palestra, veremos uma aplicação experimental de algumas dessas técnicas (GloVe, word2vec e fastText) e desses algoritmos (fastText, XGBoost e CNN) ao problema da classificação hierárquica de texto (HTC) em um banco de dados de artigos jornalísticos.| https://youtu.be/DHMuyeYdRfo | https://drive.google.com/open?id=1M5EcIElUozYYNajrgNfUSkUKod06cxN6 |
+| Técnicas de mapeamento de palavras em vetores de números reais (word embeddings) combinados com algoritmos modernos de aprendizado de máquina têm recentemente produzido uma melhoria considerável em tarefas de classificação automática de textos. Nessa palestra, veremos uma aplicação experimental de algumas dessas técnicas (GloVe, word2vec e fastText) e desses algoritmos (fastText, XGBoost e CNN) ao problema da classificação hierárquica de texto (HTC) em um banco de dados de artigos jornalísticos.| https://youtu.be/DHMuyeYdRfo | [Google Drive](https://drive.google.com/open?id=1M5EcIElUozYYNajrgNfUSkUKod06cxN6) |
 
 
 # 2018
