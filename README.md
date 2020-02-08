@@ -2,6 +2,8 @@
 
 Lista de todos os encontros que já fizemos bem como informações sobre as palestras (vídeo, slides, código, etc).
 
+* [2020](#2020)
+  * [15º Encontro - 04 MAR](#15º-encontro---04-mar)
 * [2019](#2019)
   * [14º Encontro - 04 DEZ](#14º-encontro---04-dez)
   * [13º Encontro - 24 SET](#13º-encontro---24-set)
@@ -21,6 +23,32 @@ Lista de todos os encontros que já fizemos bem como informações sobre as pale
   * [2º Encontro - 27 JUL](#2º-encontro---27-jul)
   * [1º Encontro - 1 JUN](#1º-encontro---01-jun)
 
+# 2020
+
+## 15º Encontro - 04 MAR
+
+### Evento
+
+https://www.meetup.com/Machine-Learning-Porto-Alegre/events/268478606/
+
+### Playlist Youtube
+
+TBD
+
+### Palestras
+
+**Introduction to Explainable AI - Wagston Staehler e Luciano Alves**
+
+| Resumo | Vídeo | Slides |
+| ------ | ----- | ------ |
+| TBD | TBD | TBD |
+
+**Data Storytelling: essencial para comunicar o resultado da análise de dados - Alessandra Paz**
+
+| Resumo | Vídeo | Slides |
+| ------ | ----- | ------ |
+| Podemos acompanhar uma crescente demanda por projetos para análise de dados nas mais variadas áreas de negócio e pesquisa. Estamos avançando no desenvolvimento de técnicas e modelos para gerar muitos novos insights sobre a imensidão de dados disponíveis. Mas como estamos fazendo a comunicação dessas descobertas? Pois para que os resultados dessas análises (insights) sejam convertidos em valor real, o público-alvo precisa compreender e se motivar pelo que está sendo compartilhado. Portanto, uma apresentação efetiva é chave para o sucesso de qualquer projeto. E para atingir esse objetivo, podemos utilizar estratégias de data storytelling. Nessa palestra, veremos o conceito de data storytelling e do processo de visual data storytelling. Além disso, serão apresentados alguns exemplos de caso de uso, e um compilado de dicas para auxiliar no planejamento de futuras apresentações de resultados de análise de dados. | TBD | TBD |
+
 
 # 2019
 
@@ -32,7 +60,7 @@ https://www.meetup.com/pt-BR/Machine-Learning-Porto-Alegre/events/266380501/
 
 ### Playlist Youtube
 
-TBD
+https://www.youtube.com/playlist?list=PL7L8tg5-YR5_m2vLqezQdZmygFInUOg5-
 
 ### Palestras
 
@@ -40,13 +68,13 @@ TBD
 
 | Resumo | Vídeo | Slides |
 | ------ | ----- | ------ |
-| Nesta apresentação será discutido como técnicas de aprendizado de máquina podem resolver desafios na vida de pessoas com deficiência visual. Em particular, serão apresentados algoritmos do estado da arte na área de perguntas e respostas baseadas em imagens (visual question answering) por envolver capacidades de compreensão, representação de informações de diferentes modalidades, mecanismos de atenção, e também por adotar um paradigma de interação onde o usuário é capaz de interrogar uma imagem por aspectos específicos. Embora os algoritmos avançaram de forma significativa, veremos que ainda não é possível usá-los diretamente para resolver o problema em questão. | TBD | TBD |
+| Nesta apresentação será discutido como técnicas de aprendizado de máquina podem resolver desafios na vida de pessoas com deficiência visual. Em particular, serão apresentados algoritmos do estado da arte na área de perguntas e respostas baseadas em imagens (visual question answering) por envolver capacidades de compreensão, representação de informações de diferentes modalidades, mecanismos de atenção, e também por adotar um paradigma de interação onde o usuário é capaz de interrogar uma imagem por aspectos específicos. Embora os algoritmos avançaram de forma significativa, veremos que ainda não é possível usá-los diretamente para resolver o problema em questão. | https://www.youtube.com/watch?v=hmJzGvaYayU | TBD |
 
 **Aprendizados e insights que tive com 10 projetos de Machine Learning - Jayme Anchante**
 
 | Resumo | Vídeo | Slides |
 | ------ | ----- | ------ |
-| Nunca participou de um projeto envolvendo machine learning e tem curiosidade em saber os bastidores? Já participou de alguns, mas tem interesse em discutir o tema? Vou abordar alguns aprendizados que tive em projetos de Machine Learning e compartilhar mais detalhes de um case real ou mostrar um livecoding de um caso que poderia ser real. | TBD | TBD |
+| Nunca participou de um projeto envolvendo machine learning e tem curiosidade em saber os bastidores? Já participou de alguns, mas tem interesse em discutir o tema? Vou abordar alguns aprendizados que tive em projetos de Machine Learning e compartilhar mais detalhes de um case real ou mostrar um livecoding de um caso que poderia ser real. | https://www.youtube.com/watch?v=mAYRZxDagOQ | [Slides](https://github.com/jayme-anchante/14o-ml-meetup-poa) |
 
 ## 13º Encontro - 24 SET
 
