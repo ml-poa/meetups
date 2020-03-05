@@ -41,7 +41,7 @@ TBD
 
 | Resumo | Vídeo | Slides |
 | ------ | ----- | ------ |
-| Levando-se em conta que alguns modelos de ML já são tão complexos que não conseguimos entender exatamente o que eles aprendem ou como chegam em determinada conclusão durante uma inferência, trazemos um tema que vem ganhando cada vez mais importância, Interpretabilidade. Em certos casos, a necessidade de provar que um modelo não apresenta vieses que discriminem nenhum grupo da sociedade e de justificar por que certa decisão foi tomada nos obriga a prover explicações. Deste modo, vamos introduzir o tema com as suas principais motivações e vamos apresentar algumas técnicas, com exemplos, de como aplicar Interpretabilidade e como ela pode nos ajudar. | TBD | TBD |
+| Levando-se em conta que alguns modelos de ML já são tão complexos que não conseguimos entender exatamente o que eles aprendem ou como chegam em determinada conclusão durante uma inferência, trazemos um tema que vem ganhando cada vez mais importância, Interpretabilidade. Em certos casos, a necessidade de provar que um modelo não apresenta vieses que discriminem nenhum grupo da sociedade e de justificar por que certa decisão foi tomada nos obriga a prover explicações. Deste modo, vamos introduzir o tema com as suas principais motivações e vamos apresentar algumas técnicas, com exemplos, de como aplicar Interpretabilidade e como ela pode nos ajudar. | TBD | [SlideShare](https://www.slideshare.net/WagstonStaehler/explainable-ai-229736725) |
 
 **Data Storytelling: essencial para comunicar o resultado da análise de dados - Alessandra Paz**
 
