@@ -33,7 +33,7 @@ https://www.meetup.com/Machine-Learning-Porto-Alegre/events/268478606/
 
 ### Playlist Youtube
 
-TBD
+https://www.youtube.com/playlist?list=PL7L8tg5-YR596gTsgQQrtBarDARXY3GOj
 
 ### Palestras
 
