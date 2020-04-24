@@ -98,7 +98,7 @@ https://www.youtube.com/watch?v=1M95LQCvCjI&list=PL7L8tg5-YR58Im5lHVDFKi2cahEahO
 
 | Resumo | Vídeo | Slides |
 | ------ | ----- | ------ |
-| Geometric Deep Learning é um subcampo de Deep Learning, focado em técnicas para o desenvolvimento de modelos de redes neurais em domínios não-euclidianos, como grafos e objetos 3D. Embora modelos de Deep Learning tenham alcançado sucesso em problemas relacionados a visão computacional, linguagem natural e processamento de áudio, seguindo as regras da geometria euclidiana, essas técnicas não podem ser aplicadas diretamente em domínios 3D. Nessa conversa, nosso objetivo é apresentar uma visão geral sobre Geometric Deep Learning, seus conceitos fundamentais, e demonstrar como Redes Neurais Convolucionais podem ser aplicados em grafos. | https://www.youtube.com/watch?v=1M95LQCvCjI | - |
+| Geometric Deep Learning é um subcampo de Deep Learning, focado em técnicas para o desenvolvimento de modelos de redes neurais em domínios não-euclidianos, como grafos e objetos 3D. Embora modelos de Deep Learning tenham alcançado sucesso em problemas relacionados a visão computacional, linguagem natural e processamento de áudio, seguindo as regras da geometria euclidiana, essas técnicas não podem ser aplicadas diretamente em domínios 3D. Nessa conversa, nosso objetivo é apresentar uma visão geral sobre Geometric Deep Learning, seus conceitos fundamentais, e demonstrar como Redes Neurais Convolucionais podem ser aplicados em grafos. | https://www.youtube.com/watch?v=1M95LQCvCjI | [Google Drive](https://drive.google.com/open?id=1CEcN4uEEEYiNFLL8IZ6iPjfyQfc-XR70) |
 
 ## 12º Encontro - 27 MAR
 
@@ -155,7 +155,7 @@ https://www.youtube.com/playlist?list=PL7L8tg5-YR599qAXOb2aIR8nkKMLX7r3R
 
 | Resumo | Vídeo | Slides |
 | ------ | ----- | ------ |
-| Com o aumento de popularidade da ciência de dados, técnicas de reconhecimentos de padrões, baseadas em aprendizado de máquina, servem como extratoras de informações relevantes de dados massivos. Dentre as diversas técnicas, uma técnica conceitualmente simples mas muito poderosa é a Floresta Randômica (Random Forest). Professor de Física e Mestre em Eng. Elétrica, Israel de Oliveira apresentará o método de Árvore Decisória e Floresta Randômica para classificação e regressão. Compartilhará algumas noções e melhorias na implementação utilizando Jupyter Notebook e Python. | https://youtu.be/96uWGIJjX7M | - |
+| Com o aumento de popularidade da ciência de dados, técnicas de reconhecimentos de padrões, baseadas em aprendizado de máquina, servem como extratoras de informações relevantes de dados massivos. Dentre as diversas técnicas, uma técnica conceitualmente simples mas muito poderosa é a Floresta Randômica (Random Forest). Professor de Física e Mestre em Eng. Elétrica, Israel de Oliveira apresentará o método de Árvore Decisória e Floresta Randômica para classificação e regressão. Compartilhará algumas noções e melhorias na implementação utilizando Jupyter Notebook e Python. | https://youtu.be/96uWGIJjX7M | [Github](https://github.com/ysraell/random-forest-lab/blob/master/floresta_aleatoria.pdf) |
 
 
 ## 10º Encontro - 16 AUG
