@@ -3,6 +3,7 @@
 Lista de todos os encontros que já fizemos bem como informações sobre as palestras (vídeo, slides, código, etc).
 
 * [2020](#2020)
+  * [16º Encontro - 20 JUN](#16º-encontro---20-jun)
   * [15º Encontro - 04 MAR](#15º-encontro---04-mar)
 * [2019](#2019)
   * [14º Encontro - 04 DEZ](#14º-encontro---04-dez)
@@ -24,6 +25,34 @@ Lista de todos os encontros que já fizemos bem como informações sobre as pale
   * [1º Encontro - 1 JUN](#1º-encontro---01-jun)
 
 # 2020
+
+## 16º Encontro - 20 JUN
+
+### Evento
+
+https://www.meetup.com/Machine-Learning-Porto-Alegre/events/271131081/
+
+### Playlist Youtube
+
+https://www.youtube.com/playlist?list=PL7L8tg5-YR58otiZo-nVXEwJXy2qZzdm4
+
+### Vídeo da live no Facebook
+
+https://www.facebook.com/watch/live/?v=2346989648940469&ref=watch_permalink
+
+### Palestras
+
+**Uma breve introdução à inferência Bayesiana - Roberto Silveira**
+
+| Resumo | Vídeo | Slides |
+| ------ | ----- | ------ |
+| Nessa talk, vamos mostrar os passos básicos para realizar inferência bayesiana usando ferramentas como o PyMC3. A ideia dessa talk é ser uma introdução básica e prática, mostrando os conceitos chave como regra de Bayes, principais distribuições utilizadas, técnicas de aproximação de posterior e etc. | https://www.youtube.com/watch?v=EK4y87sxzEg&t=1120s | TBD |
+
+**Modelagem Bayesiana para estudos de prevalência COVID-19 - Christian Perone**
+
+| Resumo | Vídeo | Slides |
+| ------ | ----- | ------ |
+| Durante e após uma pandemia, especialmente a que atualmente estamos enfrentando do COVID-19, estudos de prevalência são importantes para avaliar a presença de anti-corpos na população. Entretanto, a incerteza presente na validade dos testes empregados para estas pesquisas juntamente com o erro amostral muitas vezes não é calculado ou reportado para o público. Nesta talk vamos entender na prática como modelar estas incertezas utilizando o framework Bayesiano, tanto para erros amostrais como também dos testes realizados para validar os testes sorológicos utilizados em campo. Utilizaremos dados reais da região do Rio Grande do Sul e outras localidades do Brasil. | https://www.youtube.com/watch?v=EK4y87sxzEg&t=4810s | TBD |
 
 ## 15º Encontro - 04 MAR
 
