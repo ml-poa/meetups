@@ -52,7 +52,7 @@ https://www.facebook.com/watch/live/?v=2346989648940469&ref=watch_permalink
 
 | Resumo | Vídeo | Slides |
 | ------ | ----- | ------ |
-| Durante e após uma pandemia, especialmente a que atualmente estamos enfrentando do COVID-19, estudos de prevalência são importantes para avaliar a presença de anti-corpos na população. Entretanto, a incerteza presente na validade dos testes empregados para estas pesquisas juntamente com o erro amostral muitas vezes não é calculado ou reportado para o público. Nesta talk vamos entender na prática como modelar estas incertezas utilizando o framework Bayesiano, tanto para erros amostrais como também dos testes realizados para validar os testes sorológicos utilizados em campo. Utilizaremos dados reais da região do Rio Grande do Sul e outras localidades do Brasil. | https://www.youtube.com/watch?v=EK4y87sxzEg&t=4810s | TBD |
+| Durante e após uma pandemia, especialmente a que atualmente estamos enfrentando do COVID-19, estudos de prevalência são importantes para avaliar a presença de anti-corpos na população. Entretanto, a incerteza presente na validade dos testes empregados para estas pesquisas juntamente com o erro amostral muitas vezes não é calculado ou reportado para o público. Nesta talk vamos entender na prática como modelar estas incertezas utilizando o framework Bayesiano, tanto para erros amostrais como também dos testes realizados para validar os testes sorológicos utilizados em campo. Utilizaremos dados reais da região do Rio Grande do Sul e outras localidades do Brasil. | https://www.youtube.com/watch?v=EK4y87sxzEg&t=4810s | [SlideShare](https://www.slideshare.net/perone/bayesian-modelling-for-covid19-seroprevalence-studies) |
 
 ## 15º Encontro - 04 MAR
 
