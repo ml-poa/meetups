@@ -46,7 +46,7 @@ https://www.facebook.com/watch/live/?v=2346989648940469&ref=watch_permalink
 
 | Resumo | Vídeo | Slides |
 | ------ | ----- | ------ |
-| Nessa talk, vamos mostrar os passos básicos para realizar inferência bayesiana usando ferramentas como o PyMC3. A ideia dessa talk é ser uma introdução básica e prática, mostrando os conceitos chave como regra de Bayes, principais distribuições utilizadas, técnicas de aproximação de posterior e etc. | https://www.youtube.com/watch?v=EK4y87sxzEg&t=1120s | TBD |
+| Nessa talk, vamos mostrar os passos básicos para realizar inferência bayesiana usando ferramentas como o PyMC3. A ideia dessa talk é ser uma introdução básica e prática, mostrando os conceitos chave como regra de Bayes, principais distribuições utilizadas, técnicas de aproximação de posterior e etc. | https://www.youtube.com/watch?v=EK4y87sxzEg&t=1120s | [Jupyter Notebook](https://github.com/rsilveira79/palestras/blob/master/meetup_edicao_16/uma_breve_introducao_inferencia_bayesiana_roberto_silveira.ipynb) |
 
 **Modelagem Bayesiana para estudos de prevalência COVID-19 - Christian Perone**
 
