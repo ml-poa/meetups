@@ -3,6 +3,7 @@
 Lista de todos os encontros que já fizemos bem como informações sobre as palestras (vídeo, slides, código, etc).
 
 * [2020](#2020)
+  * [17º Encontro - 05 AGO](#17º-encontro---05-ago)
   * [16º Encontro - 20 JUN](#16º-encontro---20-jun)
   * [15º Encontro - 04 MAR](#15º-encontro---04-mar)
 * [2019](#2019)
@@ -25,6 +26,34 @@ Lista de todos os encontros que já fizemos bem como informações sobre as pale
   * [1º Encontro - 1 JUN](#1º-encontro---01-jun)
 
 # 2020
+
+## 17º Encontro - 05 AGO
+
+### Evento
+
+https://www.meetup.com/pt-BR/Machine-Learning-Porto-Alegre/events/271992523/
+
+### Playlist Youtube
+
+https://www.youtube.com/playlist?list=PL7L8tg5-YR5_c1CP3-lBJVJFbybKXjGVW
+
+### Vídeo da live no Facebook
+
+https://www.facebook.com/watch/?v=842034286326916
+
+### Palestras
+
+**Ambiente Exploratório e Operacional para ML - Ronaldo Bernardi**
+
+| Resumo | Vídeo | Slides |
+| ------ | ----- | ------ |
+| Apresentar uma arquitetura de referência, baseada em cloud(aws), que habilita o time de ciência de dados a realizar a exploração e operação do seus modelos de machine learning, com uma necessidade minima de engenharia de dados. | https://youtu.be/BGOVCgiVHPM?list=PL7L8tg5-YR5_c1CP3-lBJVJFbybKXjGVW&t=787 | [Google Drive](https://drive.google.com/file/d/1ctsWBiSAeurMutPOQgok_Ls1TrGrMWMs/view?usp=sharing) |
+
+**Geração de imagens a partir de texto usando GANs - Douglas Souza**
+
+| Resumo | Vídeo | Slides |
+| ------ | ----- | ------ |
+| A geração de imagens a partir de texto consiste em gerar imagens originais a partir de descrições textuais em língua natural. A tarefa é desafiadora pois aborda diversos tópicos avançados em aprendizado máquina, como processamento da língua natural e modelos geradores para imagens. Nesta palestra vamos abordar os conceitos básicos de como construir sistemas de geração de imagens a partir de texto, também cobriremos os métodos estado-da-arte. | https://youtu.be/BGOVCgiVHPM?list=PL7L8tg5-YR5_c1CP3-lBJVJFbybKXjGVW&t=4111 | [Google Drivre](https://drive.google.com/file/d/1zwKNx6aVfJzyfrs2z7db9t45xrDV0lnP/view?usp=sharing) |
 
 ## 16º Encontro - 20 JUN
 
