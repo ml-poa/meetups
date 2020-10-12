@@ -3,6 +3,7 @@
 Lista de todos os encontros que já fizemos bem como informações sobre as palestras (vídeo, slides, código, etc).
 
 * [2020](#2020)
+  * [18º Encontro - 14 OUT](#18º-encontro---14-out)
   * [17º Encontro - 05 AGO](#17º-encontro---05-ago)
   * [16º Encontro - 20 JUN](#16º-encontro---20-jun)
   * [15º Encontro - 04 MAR](#15º-encontro---04-mar)
@@ -26,6 +27,34 @@ Lista de todos os encontros que já fizemos bem como informações sobre as pale
   * [1º Encontro - 1 JUN](#1º-encontro---01-jun)
 
 # 2020
+
+## 18º Encontro - 14 OUT
+
+### Evento
+
+https://www.meetup.com/Machine-Learning-Porto-Alegre/events/273580039/
+
+### Playlist Youtube
+
+TBD
+
+### Vídeo da live no Facebook
+
+TBD
+
+### Palestras
+
+**Cross-language Image-Text Matching - Jonatas Wehrmann**
+
+| Resumo | Vídeo | Slides |
+| ------ | ----- | ------ |
+| Esta apresentação discute resultados de pesquisa relacionados à busca multimodal agnóstica a idioma. Serão apresentados modelos neurais que permitem: (i) busca de imagens utilizando queries de vários idiomas através do mesmo modelo sem aumento do custo computacional; e (ii) anotação de imagens com descrições de diferentes idiomas. Tal pesquisa introduz novas formas de extrair características de alto nível a partir de textos e imagens, além de propor novos métodos que permitem o aprendizado automático de similaridades entre instâncias de diferentes modalidades, como por exemplo, o ADAPT. Similar aos modelos baseados em atenção, o ADAPT permite a geração de vetores que representam o conteúdo das imagens levando em consideração informações da busca textual informada pelo usuário. | TBD |TBD |
+
+**ML-Git - Anderson Pablo**
+
+| Resumo | Vídeo | Slides |
+| ------ | ----- | ------ |
+| Ml-git é uma ferramenta capaz de tornar o versionamento de artefatos de machine learning simples. Semelhante ao git, que é utilizado para o versionamento de código, ml-git pode versionar os artefatos de machine learning de uma maneira que seus experimentos possam ser reproduzido e compartilhados entre seus times, ou até mesmo para a comunidade. | TBD | TBD |
 
 ## 17º Encontro - 05 AGO
 
