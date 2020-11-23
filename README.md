@@ -3,6 +3,7 @@
 Lista de todos os encontros que já fizemos bem como informações sobre as palestras (vídeo, slides, código, etc).
 
 * [2020](#2020)
+  * [19º Encontro - 21 NOV](#19º-encontro---21-nov)
   * [18º Encontro - 14 OUT](#18º-encontro---14-out)
   * [17º Encontro - 05 AGO](#17º-encontro---05-ago)
   * [16º Encontro - 20 JUN](#16º-encontro---20-jun)
@@ -28,6 +29,28 @@ Lista de todos os encontros que já fizemos bem como informações sobre as pale
 
 # 2020
 
+## 19º Encontro - 21 NOV
+
+### Evento
+
+https://www.meetup.com/Machine-Learning-Porto-Alegre/events/274436795/
+
+### Playlist Youtube
+
+https://www.youtube.com/playlist?list=PL7L8tg5-YR590LfWD9mLpAgZBCXR30rYy
+
+### Vídeo da live no Facebook
+
+https://youtu.be/n--7yFNFvhs
+
+### Palestras
+
+**Gradient-based optimization in Deep Learning - Christian S. Perone**
+
+| Resumo | Vídeo | Slides |
+| ------ | ----- | ------ |
+| Uma introdução aos métodos de otimização utilizados em Deep Learning, indo de métodos de primeira-ordem, adaptativos, até métodos de segunda-ordem e aproximações. Nesta talk, assume-se que o ouvinte tenha conhecimentos intermediários de Machine Learning e Deep Learning. | https://youtu.be/n--7yFNFvhs |[Google Drive](https://drive.google.com/file/d/1Q5AA3wkZpKcbZqI-XuUzEbOd02V7OvEy/view?usp=sharing) |
+
 ## 18º Encontro - 14 OUT
 
 ### Evento
@@ -36,11 +59,11 @@ https://www.meetup.com/Machine-Learning-Porto-Alegre/events/273580039/
 
 ### Playlist Youtube
 
-TBD
+https://www.youtube.com/playlist?list=PL7L8tg5-YR59TtI21d150qCETJDVbkV5j
 
 ### Vídeo da live no Facebook
 
-TBD
+https://youtu.be/OFfwAkQbsYY
 
 ### Palestras
 
