@@ -2,6 +2,8 @@
 
 Lista de todos os encontros que já fizemos bem como informações sobre as palestras (vídeo, slides, código, etc).
 
+* [2021](#2021)
+  * [20º Encontro - 23 MAR](#20º-encontro---23-mar)
 * [2020](#2020)
   * [19º Encontro - 21 NOV](#19º-encontro---21-nov)
   * [18º Encontro - 14 OUT](#18º-encontro---14-out)
@@ -26,6 +28,38 @@ Lista de todos os encontros que já fizemos bem como informações sobre as pale
   * [3º Encontro - 13 OUT](#3º-encontro---13-out)
   * [2º Encontro - 27 JUL](#2º-encontro---27-jul)
   * [1º Encontro - 1 JUN](#1º-encontro---01-jun)
+
+# 2021
+
+## 20º Encontro - 23 MAR
+
+### Evento
+
+https://www.meetup.com/Machine-Learning-Porto-Alegre/events/276698874/
+
+### Playlist Youtube
+
+https://www.youtube.com/playlist?list=PL7L8tg5-YR5_ULXQnGkK1qkgIwFoX-OyA
+
+### Vídeo da live no Facebook
+
+https://youtu.be/40GfFpn2tz8
+
+### Palestras
+
+**Introdução à Arquitetura de Carros Autônomos e o Uso de Simuladores para o Desenvolvimento - Guilherme Bortolaso**
+
+| Resumo | Vídeo | Slides |
+| ------ | ----- | ------ |
+| Nesta palestra iremos abordar a arquitetura dos carros autônomos na atualidade, assim como os seus sensores, atuadores, redes de comunicação, principais algoritmos utilizados, e também alguns desafios em aberto na área. Também veremos a importância da utilização de simuladores, encerrando a apresentação com uma demonstração prática de um simulador desenvolvido pela startup brasileira Skoods utilizando a biblioteca Airsim e Python. | https://www.youtube.com/watch?v=40GfFpn2tz8&t=963s |TBD |
+
+**Calibração em Redes Neurais - Uma rápida introdução - Roberto Silveira**
+
+| Resumo | Vídeo | Slides |
+| ------ | ----- | ------ |
+| Atualmente, muitos modelos de machine learning são colocados em produção sem levar em consideração se suas predições estão calibradas, ou seja, se a confiança da predição é condizente com sua acurácia. Nessa talk vamos revisar algumas técnicas usadas para calibrar redes neurais, tais como Plat Scaling, Isotonic Regression, Temperature Scaling e mais recentemente Calibração baseada em Focal Loss. Vamos revisar algumas métricas, como Reliability Diagram, ECE (expected calibration error), MCE (maximum calibration error), dentre outras. | https://www.youtube.com/watch?v=40GfFpn2tz8&t=4704s | TBD |
+
+
 
 # 2020
 
