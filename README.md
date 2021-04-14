@@ -51,13 +51,13 @@ https://youtu.be/40GfFpn2tz8
 
 | Resumo | Vídeo | Slides |
 | ------ | ----- | ------ |
-| Nesta palestra iremos abordar a arquitetura dos carros autônomos na atualidade, assim como os seus sensores, atuadores, redes de comunicação, principais algoritmos utilizados, e também alguns desafios em aberto na área. Também veremos a importância da utilização de simuladores, encerrando a apresentação com uma demonstração prática de um simulador desenvolvido pela startup brasileira Skoods utilizando a biblioteca Airsim e Python. | https://www.youtube.com/watch?v=40GfFpn2tz8&t=963s |TBD |
+| Nesta palestra iremos abordar a arquitetura dos carros autônomos na atualidade, assim como os seus sensores, atuadores, redes de comunicação, principais algoritmos utilizados, e também alguns desafios em aberto na área. Também veremos a importância da utilização de simuladores, encerrando a apresentação com uma demonstração prática de um simulador desenvolvido pela startup brasileira Skoods utilizando a biblioteca Airsim e Python. | [Youtube](https://www.youtube.com/watch?v=40GfFpn2tz8&t=963s) | [Google Drive](https://drive.google.com/file/d/12pAlfCIkWu5k8qaGIfpBn3O-L4K4rQPQ/view?usp=sharing)|
 
 **Calibração em Redes Neurais - Uma rápida introdução - Roberto Silveira**
 
 | Resumo | Vídeo | Slides |
 | ------ | ----- | ------ |
-| Atualmente, muitos modelos de machine learning são colocados em produção sem levar em consideração se suas predições estão calibradas, ou seja, se a confiança da predição é condizente com sua acurácia. Nessa talk vamos revisar algumas técnicas usadas para calibrar redes neurais, tais como Plat Scaling, Isotonic Regression, Temperature Scaling e mais recentemente Calibração baseada em Focal Loss. Vamos revisar algumas métricas, como Reliability Diagram, ECE (expected calibration error), MCE (maximum calibration error), dentre outras. | https://www.youtube.com/watch?v=40GfFpn2tz8&t=4704s | TBD |
+| Atualmente, muitos modelos de machine learning são colocados em produção sem levar em consideração se suas predições estão calibradas, ou seja, se a confiança da predição é condizente com sua acurácia. Nessa talk vamos revisar algumas técnicas usadas para calibrar redes neurais, tais como Plat Scaling, Isotonic Regression, Temperature Scaling e mais recentemente Calibração baseada em Focal Loss. Vamos revisar algumas métricas, como Reliability Diagram, ECE (expected calibration error), MCE (maximum calibration error), dentre outras. | [Youtube](https://www.youtube.com/watch?v=40GfFpn2tz8&t=4704s) | [Google Drive](https://drive.google.com/file/d/1QUQ4tuZcn1MvkpuxCit-UAOGrCQ0fACw/view?usp=sharing) |
 
 
 
@@ -105,13 +105,13 @@ https://youtu.be/OFfwAkQbsYY
 
 | Resumo | Vídeo | Slides |
 | ------ | ----- | ------ |
-| Esta apresentação discute resultados de pesquisa relacionados à busca multimodal agnóstica a idioma. Serão apresentados modelos neurais que permitem: (i) busca de imagens utilizando queries de vários idiomas através do mesmo modelo sem aumento do custo computacional; e (ii) anotação de imagens com descrições de diferentes idiomas. Tal pesquisa introduz novas formas de extrair características de alto nível a partir de textos e imagens, além de propor novos métodos que permitem o aprendizado automático de similaridades entre instâncias de diferentes modalidades, como por exemplo, o ADAPT. Similar aos modelos baseados em atenção, o ADAPT permite a geração de vetores que representam o conteúdo das imagens levando em consideração informações da busca textual informada pelo usuário. | TBD |TBD |
+| Esta apresentação discute resultados de pesquisa relacionados à busca multimodal agnóstica a idioma. Serão apresentados modelos neurais que permitem: (i) busca de imagens utilizando queries de vários idiomas através do mesmo modelo sem aumento do custo computacional; e (ii) anotação de imagens com descrições de diferentes idiomas. Tal pesquisa introduz novas formas de extrair características de alto nível a partir de textos e imagens, além de propor novos métodos que permitem o aprendizado automático de similaridades entre instâncias de diferentes modalidades, como por exemplo, o ADAPT. Similar aos modelos baseados em atenção, o ADAPT permite a geração de vetores que representam o conteúdo das imagens levando em consideração informações da busca textual informada pelo usuário. | [Youtube](https://youtu.be/OFfwAkQbsYY?list=PL7L8tg5-YR59TtI21d150qCETJDVbkV5j&t=1110) |TBD |
 
 **ML-Git - Anderson Pablo**
 
 | Resumo | Vídeo | Slides |
 | ------ | ----- | ------ |
-| Ml-git é uma ferramenta capaz de tornar o versionamento de artefatos de machine learning simples. Semelhante ao git, que é utilizado para o versionamento de código, ml-git pode versionar os artefatos de machine learning de uma maneira que seus experimentos possam ser reproduzido e compartilhados entre seus times, ou até mesmo para a comunidade. | TBD | TBD |
+| Ml-git é uma ferramenta capaz de tornar o versionamento de artefatos de machine learning simples. Semelhante ao git, que é utilizado para o versionamento de código, ml-git pode versionar os artefatos de machine learning de uma maneira que seus experimentos possam ser reproduzido e compartilhados entre seus times, ou até mesmo para a comunidade. | [Youtube](https://youtu.be/OFfwAkQbsYY?list=PL7L8tg5-YR59TtI21d150qCETJDVbkV5j&t=4675) | [Google Drive](https://drive.google.com/file/d/14-pMYebyATDzURiW4EWcbwN17ZP5xJj4/view?usp=sharing) |
 
 ## 17º Encontro - 05 AGO
 
@@ -133,13 +133,13 @@ https://www.facebook.com/watch/?v=842034286326916
 
 | Resumo | Vídeo | Slides |
 | ------ | ----- | ------ |
-| Apresentar uma arquitetura de referência, baseada em cloud(aws), que habilita o time de ciência de dados a realizar a exploração e operação do seus modelos de machine learning, com uma necessidade minima de engenharia de dados. | https://youtu.be/BGOVCgiVHPM?list=PL7L8tg5-YR5_c1CP3-lBJVJFbybKXjGVW&t=787 | [Google Drive](https://drive.google.com/file/d/1ctsWBiSAeurMutPOQgok_Ls1TrGrMWMs/view?usp=sharing) |
+| Apresentar uma arquitetura de referência, baseada em cloud(aws), que habilita o time de ciência de dados a realizar a exploração e operação do seus modelos de machine learning, com uma necessidade minima de engenharia de dados. | [Youtube](https://youtu.be/BGOVCgiVHPM?list=PL7L8tg5-YR5_c1CP3-lBJVJFbybKXjGVW&t=787) | [Google Drive](https://drive.google.com/file/d/1ctsWBiSAeurMutPOQgok_Ls1TrGrMWMs/view?usp=sharing) |
 
 **Geração de imagens a partir de texto usando GANs - Douglas Souza**
 
 | Resumo | Vídeo | Slides |
 | ------ | ----- | ------ |
-| A geração de imagens a partir de texto consiste em gerar imagens originais a partir de descrições textuais em língua natural. A tarefa é desafiadora pois aborda diversos tópicos avançados em aprendizado máquina, como processamento da língua natural e modelos geradores para imagens. Nesta palestra vamos abordar os conceitos básicos de como construir sistemas de geração de imagens a partir de texto, também cobriremos os métodos estado-da-arte. | https://youtu.be/BGOVCgiVHPM?list=PL7L8tg5-YR5_c1CP3-lBJVJFbybKXjGVW&t=4111 | [Google Drivre](https://drive.google.com/file/d/1zwKNx6aVfJzyfrs2z7db9t45xrDV0lnP/view?usp=sharing) |
+| A geração de imagens a partir de texto consiste em gerar imagens originais a partir de descrições textuais em língua natural. A tarefa é desafiadora pois aborda diversos tópicos avançados em aprendizado máquina, como processamento da língua natural e modelos geradores para imagens. Nesta palestra vamos abordar os conceitos básicos de como construir sistemas de geração de imagens a partir de texto, também cobriremos os métodos estado-da-arte. | [Youtube](https://youtu.be/BGOVCgiVHPM?list=PL7L8tg5-YR5_c1CP3-lBJVJFbybKXjGVW&t=4111) | [Google Drive](https://drive.google.com/file/d/1zwKNx6aVfJzyfrs2z7db9t45xrDV0lnP/view?usp=sharing) |
 
 ## 16º Encontro - 20 JUN
 
