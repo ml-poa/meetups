@@ -3,6 +3,8 @@
 Lista de todos os encontros que já fizemos bem como informações sobre as palestras (vídeo, slides, código, etc).
 
 * [2021](#2021)
+  * [22º Encontro - 27 JUL](#22º-encontro---27-jul)
+  * [21º Encontro - 26 MAI](#21º-encontro---26-mai)
   * [20º Encontro - 23 MAR](#20º-encontro---23-mar)
 * [2020](#2020)
   * [19º Encontro - 21 NOV](#19º-encontro---21-nov)
@@ -31,6 +33,63 @@ Lista de todos os encontros que já fizemos bem como informações sobre as pale
 
 # 2021
 
+## 22º Encontro - 27 JUL
+
+### Evento
+
+https://www.meetup.com/Machine-Learning-Porto-Alegre/events/279286191/
+
+### Playlist Youtube
+
+TBD
+
+### Vídeo da live no Facebook
+
+TBD
+
+### Palestras
+
+**Escalando Machine Learning com MLOps no QuintoAndar - Ralph Rassweiler**
+
+| Resumo | Vídeo | Slides |
+| ------ | ----- | ------ |
+| Modelos de machine learning ajudam diversas áreas de negócio a tomarem decisões mais assertivas e a obter insights valiosos. Como consequência da entrada em produção destes modelos, surgem desafios de engenharia. Os modelos treinados devem, além de produzir os resultados para os quais foram programados, ser escaláveis, replicáveis e estáveis. Para buscar atingir estes objetivos, a área de MLOps emerge, utilizando recursos como a Feature Store. Esta apresentação aborda oportunidades e desafios em MLOps, especialmente em situações que vivenciamos no QuintoAndar. | TBD | TBD |
+
+**A Feature Store do iFood: agregando dados para aprendizado de máquina em tempo real - Daniel Galinkin**
+
+| Resumo | Vídeo | Slides |
+| ------ | ----- | ------ |
+| O iFood é a maior empresa de foodtech na América Latina. Nós entregamos mais de 60 milhões de pedidos todos os meses, de mais de 150 mil restaurantes. Isso gera enormes quantidades de dados a cada segundo: quais pratos foram pedidos, por quem, cada atualização da posição de cada entregador, e muito mais. Para garantir a melhor experiência de usuário possível e maximizar o número de pedidos, nós construímos vários modelos de aprendizado de máquina para gerar respostas precisas para perguntas como: quanto tempo um pedido demora para ficar pronto; quais são os melhores pratos e restaurantes para recomendar para um usuário; se um pagamento sendo feito é fraudulento ou não; dentre vários outras. Para gerar conjuntos de treino para esses modelos, e para consumir atributos necessários para que eles façam predições em tempo real, é necessário criar pipelines de processamento de dados distribuídos e eficientes. Nessa apresentação, vamos mostrar como o iFood construiu uma feature store que consome, processa, armazena e serve dados em tempo real. | TBD | TBD |
+
+
+## 21º Encontro - 26 MAI
+
+### Evento
+
+https://www.meetup.com/Machine-Learning-Porto-Alegre/events/277991773/
+
+### Playlist Youtube
+
+https://youtube.com/playlist?list=PL7L8tg5-YR5-m7McXXCIXfNVDBPwxaJnF
+
+### Vídeo da live no Facebook
+
+https://fb.watch/v/agP8gIX97/
+
+### Palestras
+
+**Algoritmos evolutivos para aprendizado de máquina - Henry Cagnini**
+
+| Resumo | Vídeo | Slides |
+| ------ | ----- | ------ |
+| O que são algoritmos evolutivos, e para que servem? Como é possível utilizar algoritmos evolutivos para melhorar processos de aprendizado de máquina? Nesta apresentação estes conceitos serão explicados de forma interativa, através de um exemplo prático utilizando Python e a biblioteca DEAP - sigla para Algoritmos Evolutivos Distribuídos em Python, na sigla em inglês. O público-alvo são praticantes de aprendizado de máquina de todos os níveis, com alguma experiência na linguagem Python. | [Youtube](https://www.youtube.com/watch?v=vtuCMO_-igI&list=PL7L8tg5-YR5-m7McXXCIXfNVDBPwxaJnF&index=1&t=975s) | [Google Drive](https://drive.google.com/file/d/1FKFbN0Th4QY9KbgRyPjUTKRRJCmcgh6T/view?usp=sharing)|
+
+**Aprendizado auto-supervisionado para Visão Computacional - Thalles Santos Silva**
+
+| Resumo | Vídeo | Slides |
+| ------ | ----- | ------ |
+| Nesta apresentação, falaremos sobre os recentes avanços em aprendizado de representações utilizando dados não supervisionados. Especialmente, discorreremos sobre métodos auto-supervisionados (self-supervised) que foram essenciais para o sucesso de modelos de linguagem como BERT, e recentemente vêm obtendo resultados surpreendentes em visão computacional. Falaremos sobre a ligação entre aprendizado auto-supervisionado e Modelos baseados em Energia e por fim, abordaremos implementações recentes como SimCLR, BYOL, SwAV, e CARL que foi publicado recentemente no workshop de Energy-Based Models no ICLR 2021. | [Youtube](https://www.youtube.com/watch?v=vtuCMO_-igI&list=PL7L8tg5-YR5-m7McXXCIXfNVDBPwxaJnF&index=1&t=4616s) | [Google Drive](https://drive.google.com/file/d/10hHO9hO28R29mmhLWzI8ES7c4m0iTj4h/view?usp=sharing) |
+
 ## 20º Encontro - 23 MAR
 
 ### Evento
@@ -58,7 +117,6 @@ https://youtu.be/40GfFpn2tz8
 | Resumo | Vídeo | Slides |
 | ------ | ----- | ------ |
 | Atualmente, muitos modelos de machine learning são colocados em produção sem levar em consideração se suas predições estão calibradas, ou seja, se a confiança da predição é condizente com sua acurácia. Nessa talk vamos revisar algumas técnicas usadas para calibrar redes neurais, tais como Plat Scaling, Isotonic Regression, Temperature Scaling e mais recentemente Calibração baseada em Focal Loss. Vamos revisar algumas métricas, como Reliability Diagram, ECE (expected calibration error), MCE (maximum calibration error), dentre outras. | [Youtube](https://www.youtube.com/watch?v=40GfFpn2tz8&t=4704s) | [Google Drive](https://drive.google.com/file/d/1QUQ4tuZcn1MvkpuxCit-UAOGrCQ0fACw/view?usp=sharing) |
-
 
 
 # 2020
