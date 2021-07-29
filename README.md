@@ -41,11 +41,8 @@ https://www.meetup.com/Machine-Learning-Porto-Alegre/events/279286191/
 
 ### Playlist Youtube
 
-TBD
+https://www.youtube.com/playlist?list=PL7L8tg5-YR5_YuXFUXgJA1Eq5hnKug6l2
 
-### Vídeo da live no Facebook
-
-TBD
 
 ### Palestras
 
@@ -53,13 +50,13 @@ TBD
 
 | Resumo | Vídeo | Slides |
 | ------ | ----- | ------ |
-| Modelos de machine learning ajudam diversas áreas de negócio a tomarem decisões mais assertivas e a obter insights valiosos. Como consequência da entrada em produção destes modelos, surgem desafios de engenharia. Os modelos treinados devem, além de produzir os resultados para os quais foram programados, ser escaláveis, replicáveis e estáveis. Para buscar atingir estes objetivos, a área de MLOps emerge, utilizando recursos como a Feature Store. Esta apresentação aborda oportunidades e desafios em MLOps, especialmente em situações que vivenciamos no QuintoAndar. | TBD | TBD |
+| Modelos de machine learning ajudam diversas áreas de negócio a tomarem decisões mais assertivas e a obter insights valiosos. Como consequência da entrada em produção destes modelos, surgem desafios de engenharia. Os modelos treinados devem, além de produzir os resultados para os quais foram programados, ser escaláveis, replicáveis e estáveis. Para buscar atingir estes objetivos, a área de MLOps emerge, utilizando recursos como a Feature Store. Esta apresentação aborda oportunidades e desafios em MLOps, especialmente em situações que vivenciamos no QuintoAndar. | [Youtube](https://youtu.be/c75xCeKVUJY?t=766) | [Google Drive](https://drive.google.com/file/d/1n_kozEKvSyz6fma6XjO86hbEPeKcyx0l/view?usp=sharing) |
 
 **A Feature Store do iFood: agregando dados para aprendizado de máquina em tempo real - Daniel Galinkin**
 
 | Resumo | Vídeo | Slides |
 | ------ | ----- | ------ |
-| O iFood é a maior empresa de foodtech na América Latina. Nós entregamos mais de 60 milhões de pedidos todos os meses, de mais de 150 mil restaurantes. Isso gera enormes quantidades de dados a cada segundo: quais pratos foram pedidos, por quem, cada atualização da posição de cada entregador, e muito mais. Para garantir a melhor experiência de usuário possível e maximizar o número de pedidos, nós construímos vários modelos de aprendizado de máquina para gerar respostas precisas para perguntas como: quanto tempo um pedido demora para ficar pronto; quais são os melhores pratos e restaurantes para recomendar para um usuário; se um pagamento sendo feito é fraudulento ou não; dentre vários outras. Para gerar conjuntos de treino para esses modelos, e para consumir atributos necessários para que eles façam predições em tempo real, é necessário criar pipelines de processamento de dados distribuídos e eficientes. Nessa apresentação, vamos mostrar como o iFood construiu uma feature store que consome, processa, armazena e serve dados em tempo real. | TBD | TBD |
+| O iFood é a maior empresa de foodtech na América Latina. Nós entregamos mais de 60 milhões de pedidos todos os meses, de mais de 150 mil restaurantes. Isso gera enormes quantidades de dados a cada segundo: quais pratos foram pedidos, por quem, cada atualização da posição de cada entregador, e muito mais. Para garantir a melhor experiência de usuário possível e maximizar o número de pedidos, nós construímos vários modelos de aprendizado de máquina para gerar respostas precisas para perguntas como: quanto tempo um pedido demora para ficar pronto; quais são os melhores pratos e restaurantes para recomendar para um usuário; se um pagamento sendo feito é fraudulento ou não; dentre vários outras. Para gerar conjuntos de treino para esses modelos, e para consumir atributos necessários para que eles façam predições em tempo real, é necessário criar pipelines de processamento de dados distribuídos e eficientes. Nessa apresentação, vamos mostrar como o iFood construiu uma feature store que consome, processa, armazena e serve dados em tempo real. | [Youtube](https://youtu.be/c75xCeKVUJY?t=4350) | [Google Drive](https://drive.google.com/file/d/1KyVixVJmapwJwHCH8_ZQaydQzebihts7/view?usp=sharing) |
 
 
 ## 21º Encontro - 26 MAI
